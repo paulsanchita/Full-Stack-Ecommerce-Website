@@ -23,11 +23,10 @@ The "Ecommerce" project is a full stack ecommerce website designed to provide us
 
 To run this project locally, ensure you have XAMPP or WAMP installed. Import the provided MySQL database schema and files. Configure the database connection settings in the PHP files where necessary.
 
-1. Clone Repository: git clone https://github.com/yourusername/repository.git
-2. Database Setup: Import the database schema located in database/schema.sql.
-3. Configuration: Update database connection settings in config.php.
-4. Start Server: Launch XAMPP or WAMP and start Apache and MySQL servers.
-5. Access: Open http://localhost/ecommerce in your browser.
+1. Database Setup: Import the database schema located in database/schema.sql.
+2. Configuration: Update database connection settings in config.php.
+3. Start Server: Launch XAMPP or WAMP and start Apache and MySQL servers.
+4. Access: Open http://localhost/ecommerce in your browser.
 
 # Usage
 
